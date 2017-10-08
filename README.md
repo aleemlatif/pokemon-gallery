@@ -1,2 +1,2 @@
 # pokemon-gallery
-Angular 4 Appliction
+Angular 1.5 Appliction
